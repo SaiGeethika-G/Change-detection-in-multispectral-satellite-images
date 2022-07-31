@@ -14,4 +14,5 @@ The project mainly deals with the vegetation change detection in multispectral s
 <p align="center">
 <img src="https://user-images.githubusercontent.com/79441278/178034650-5730d84e-818f-449f-b97a-018d5fbdf4ed.png" width="700" height="500" alt="bands"/>
 </p>
+The evaluation metrics can be obtained using RMSE(Root Mean Square Deviation) and PSNR(Peak Signal to noise ratio)
 
